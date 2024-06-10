@@ -1,6 +1,6 @@
 # Learn by Building: Software Design with Python
 
-[PythonDesign Patern Cover Image](design-patterns-python.png)
+![PythonDesign Patern Cover Image](design-patterns-python.png)
 
 Master design principles through practical Python projects!
 
